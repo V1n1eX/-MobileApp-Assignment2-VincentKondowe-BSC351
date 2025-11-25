@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">926180060020</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDp6xzo_3ficcLyfMyhjbNKGmeIJ_0WqM</string>
+    <string name="google_app_id" translatable="false">1:926180060020:android:3c67baa84f13b42a469a21</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDp6xzo_3ficcLyfMyhjbNKGmeIJ_0WqM</string>
+    <string name="google_storage_bucket" translatable="false">blooddonerfinder-68da1.firebasestorage.app</string>
+    <string name="project_id" translatable="false">blooddonerfinder-68da1</string>
+</resources>

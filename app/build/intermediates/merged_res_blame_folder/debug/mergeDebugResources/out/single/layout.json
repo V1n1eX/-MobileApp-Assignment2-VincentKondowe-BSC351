@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\BENJAMIN\\.gradle\\daemon\\8.13\\com.example.bdf.app-mergeDebugResources-68:\\layout\\activity_donor_registration.xml",
+        "source": "C:\\Users\\BENJAMIN\\.gradle\\daemon\\8.13\\com.example.bdf.app-main-71:\\layout\\activity_donor_registration.xml"
+    },
+    {
+        "merged": "com.example.bdf.app-mergeDebugResources-68:/layout/activity_donor_registration.xml",
+        "source": "com.example.bdf.app-main-71:/layout/activity_donor_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\BENJAMIN\\.gradle\\daemon\\8.13\\com.example.bdf.app-mergeDebugResources-68:\\layout\\donor_item.xml",
+        "source": "C:\\Users\\BENJAMIN\\.gradle\\daemon\\8.13\\com.example.bdf.app-main-71:\\layout\\donor_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BENJAMIN\\.gradle\\daemon\\8.13\\com.example.bdf.app-mergeDebugResources-68:\\layout\\activity_recipient_search.xml",
+        "source": "C:\\Users\\BENJAMIN\\.gradle\\daemon\\8.13\\com.example.bdf.app-main-71:\\layout\\activity_recipient_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\BENJAMIN\\.gradle\\daemon\\8.13\\com.example.bdf.app-mergeDebugResources-68:\\layout\\activity_role_selection.xml",
+        "source": "C:\\Users\\BENJAMIN\\.gradle\\daemon\\8.13\\com.example.bdf.app-main-71:\\layout\\activity_role_selection.xml"
+    }
+]
